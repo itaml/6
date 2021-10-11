@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">6</string>
+    <string name="button_fon">Выбрать фон</string>
+    <string name="message">Хотите поменять фон?</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+    <color name="A">#FF0000</color>
+    <color name="B">#FFFF00</color>
+    <color name="C">#00FF00</color>
+</resources>
